@@ -3,6 +3,8 @@
 part of the learn react series
 
 Set up a Navbar component with a showLinks state value (boolean). 
+Set up Modal.
+setup Sidebar component.
 
 
 Set up a Navbar component with a showLinks state value (boolean).
